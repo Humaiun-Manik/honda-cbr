@@ -2,8 +2,31 @@
     background-color:#264653;
 }
 .title{
-    font-size: 3em;
+    font-size: 3.2em;
 }
 .btn-bg-color{
     background-color: #E76F51;
 }
+.bikes img{
+    width: 288px;
+    height: 243px;
+}
+.f-color{
+    color: #E76F51;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+.text-color{
+    color: #E76F51;
+}
+.girl{
+    width: 325px;
+    clip-path: circle();
+}
+/* .cbr-specification{
+    text-align: center;
+} */
